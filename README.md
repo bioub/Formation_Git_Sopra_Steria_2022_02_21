@@ -13,3 +13,4 @@ Formation Git du 21/02
 
 * git branch
 * git switch
+* git merge
