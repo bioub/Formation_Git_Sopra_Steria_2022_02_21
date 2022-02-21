@@ -8,3 +8,8 @@ Formation Git du 21/02
 * git config
 * git add
 * git commit
+
+## Branches
+
+* git branch
+* git switch
